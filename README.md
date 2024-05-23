@@ -1,1 +1,1 @@
-# Yaz-l-mKaliteG-vencesiveTesti
+# YazilimKaliteGuvencesiveTesti
