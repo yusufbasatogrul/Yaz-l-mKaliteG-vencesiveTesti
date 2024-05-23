@@ -1,0 +1,1 @@
+# Yaz-l-mKaliteG-vencesiveTesti
