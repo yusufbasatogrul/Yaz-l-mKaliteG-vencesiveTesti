@@ -1,6 +1,4 @@
 
-Sunum ve postere dayanarak GitHub için aşağıdaki gibi bir README.md dosyası hazırlayabilirim. İçeriği gözden geçirip istediğin düzenlemeleri yapabilirim. 🎯
-
 Yazılım Test Süreci ve Uygulama Projesi
 Fırat Üniversitesi - Teknoloji Fakültesi - Yazılım Mühendisliği
 Ders: Yazılım Kalite Güvencesi ve Testi
